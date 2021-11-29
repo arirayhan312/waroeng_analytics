@@ -1,0 +1,54 @@
+/* Navbar */
+.navbar-brand {
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.nav-link {
+    font-family: 'Raleway';
+    font-weight: 500;
+    margin-right: 15px;
+}
+
+/* Jumbotron */
+.jumbotron {
+    background-image: url(assets/images/2.jpg);
+    background-size: cover;
+    height: 640px;
+}
+
+.jumbotron .display-4 {
+    text-align: center;
+    font-family: 'Raleway';
+    font-weight: 400;
+    text-shadow: 0.5px 0.5px 0.5px black;
+    color: white;
+    padding-top: 150px;
+}
+
+.sub-title {
+    text-align: center;
+    font-family: 'Raleway';
+    font-weight: 300;
+    text-shadow: 1px 1px 1px black;
+    color: white;
+    padding-top: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.jumbotron .display-4 span {
+    font-weight: 700;
+}
+
+.dropdown-item {
+    font-family: 'Raleway';
+    font-weight: 300;
+    font-size: 15px;
+}
+
+/* DESKTOP VERSION */
+/* @media (min-width: 992px) {
+
+} */
