@@ -48,6 +48,19 @@
     font-size: 15px;
 }
 
+#article1{
+    height: 440px;
+}
+#article1title {
+    padding-bottom: 14px;
+}
+#article1 .row {
+    padding-top: 60px;
+}
+
+#imgarticle1 {
+    width: 75%;
+}
 /* DESKTOP VERSION */
 /* @media (min-width: 992px) {
 
